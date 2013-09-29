@@ -9,6 +9,7 @@ public class Person {
         this.name = name;
         new GrowthList();
         // conflict comment line
+        //another conflict comment line
     }
 
     public String getName() {
